@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+result/
+globals.__pycache__/
+GUI.__pycache__/
+objects.__pycache__/
+scheduler.__pycache__/
